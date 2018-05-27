@@ -1,0 +1,14 @@
+{
+  "name": "simple_server",
+  "version": "1.0.0",
+  "description": "simple express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "nate",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
